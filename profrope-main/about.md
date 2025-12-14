@@ -5,7 +5,6 @@ nav_order: 2
 
 # About Me
 
-I’m a geographer and educator passionate about mapping, cities, and design.
-
-- **Current role:** Professor of Urban Spatial Design in Japan  
-- **Interests:** Web mapping, spatial analysis, and creative geography 
+I am from Saint Paul, Minnesota. Currently, I am a senior Political Science major at Temple University. I enjoy playing music, specificially the saxophone and also meeting new people. 
+- **Current role:** Community Engagement Lead, Reconnect Rondo  
+- **Interests:** Music, Creative direction (production), learning about new cultures and new languages
