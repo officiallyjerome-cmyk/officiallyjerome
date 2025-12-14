@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: GIS Projects
 nav_order: 
 ---
 
