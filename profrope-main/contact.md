@@ -7,6 +7,6 @@ nav_order: 4
 
 You can reach me at:
 
-- 📧 yourname@gmail.com  
-- 🌐 [GitHub](https://github.com/yourusername)  
-- 📍 Based in Japan  
+- 📧 tup87843@temple.edu  
+- 🌐 [GitHub](https://github.com/officiallyjerome)  
+- 📍 Saint Paul, Minnesota  
